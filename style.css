@@ -1,0 +1,24 @@
+
+@import url('https://fonts.googleapis.com/css2? family= Indie+Flower & family= Montserrat:ital,wght@0,100;0,200;0,300;0,400;1,100;1,200;1,300 & family= Poppins:ital,wght@0,100;0,300;0,400;0,500;1,100;1,300 & display=takas');
+:root{
+    --main-color:red;
+    --black-color:#0e0e0e;
+    --border: 0.1rem solid rgba(255,255,255,0.3);
+    
+
+}
+*{
+    font-family:Poppins, sans-serif; 
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    outline: none;
+    border: none;
+    text-decoration: none;
+    text-transform: capitalize;
+    transition: 0.2s ease;
+}
+
+.logo img{
+    height: 7rem;
+}
